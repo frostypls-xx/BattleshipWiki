@@ -3,11 +3,11 @@ Battleship is an NES and Sega Game Gear video game based on the board game of th
 ***
 
 ## Contents
-* [Overview of the gameplay]()
-* [Game screens and flow]()
-* [User Interface]()
-* [Gameplay]()
-* [Assests]()
+* [Overview of Gameplay](https://github.com/frostypls/BattleshipWiki/wiki/Overview-of-Gameplay)
+* [Game Screens and Flow](https://github.com/frostypls/BattleshipWiki/wiki/Game-Screens-and-Flow)
+* [User Interface](https://github.com/frostypls/BattleshipWiki/wiki/User-Interface)
+* [Gameplay](https://github.com/frostypls/BattleshipWiki/wiki/Gameplay)
+* [Assests](https://github.com/frostypls/BattleshipWiki/wiki/Assets)
 
 ***
 
